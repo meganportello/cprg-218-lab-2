@@ -57,6 +57,7 @@ Ingredients:
 - 1/4 cup grated Parmesan cheese
 - 1 egg
 - 2 cloves garlic, minced
+- 1/4 cup fresh basil
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
 
