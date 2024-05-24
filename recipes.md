@@ -114,3 +114,27 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Brownies
+
+Ingredients:
+- 1 cup unsalted butter, melted
+- 2 cups white sugar
+- 1/2 cup cocoa powder
+- 1 tsp vanilla extract
+- 4 large eggs
+- 1 1/2 cups all-purpose flour
+- 1/2 tsp baking powder
+- 1/2 tsp salt
+- 1 cup chopped walnuts (optional)
+
+Instructions:
+1. Preheat oven to 350°F (175°C).
+2. In a large bowl, combine melted butter, sugar, and cocoa powder.
+3. Stir in vanilla extract and eggs, one at a time.
+4. Gradually mix in flour, baking powder, and salt.
+5. Fold in walnuts if using.
+6. Spread batter into a greased 9x13 inch baking pan.
+7. Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.
+8. Let cool before cutting into squares.
+
